@@ -14,3 +14,52 @@ Lab01. El internet antes de la web
                 ||----w |
                 ||     ||
 
+4. (20 puntos) En el emulador de apple, corran el software appleteach1 y luego el programa 34, corran todo el test, cuál fue su resultado?
+
+  WE HAVE THE FIVE PEOPLE:
+
+
+A               THE BOAT BUILDER
+
+B               THE RADIO BUILDER
+
+C               THE HELPER/LOVER
+
+D               THE BETROTHED
+
+E               THE COUNSELOR
+
+PLEASE RANK THESE PEOPLE BY LETTER
+IN ORDER OF YOUR PERSONAL 'ESTEEM'...
+
+       RANK 1?E
+       RANK 2?B
+       RANK 3?D
+       RANK 4?A
+       RANK 5?C
+
+ MY PROFILE RANKING OF YOU INDICATES:
+
+     FIRST AND FOREMOST...
+
+   YOU ARE A LOVING PERSON
+
+         NEXT...
+
+   YOU THINK THINGS OUT INTELLIGENTLY
+
+         THIRDLY...
+
+   YOU ARE RIGHTEOUS
+
+         NEXT TO LAST...
+
+   YOU HAVE SEXUAL INCLINATIONS
+
+         LASTLY...
+
+   YOU TAKE ADVANTAGE OF ANY OPPORTUNITY
+
+         SO NOW YOU KNOW...
+
+ (BUT I'M NO PSYCHOLOGIST...)
